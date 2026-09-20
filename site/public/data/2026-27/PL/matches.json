@@ -1,7 +1,7 @@
 {
  "league": "PL",
  "season": "2026-27",
- "updated_at": "2026-09-20T08:28:33Z",
+ "updated_at": "2026-09-20T13:32:27Z",
  "results_hash": "5a3dc231e32e57d96bf9248e2b7068ee37f5e717",
  "teams": [
   {
@@ -610,11 +610,11 @@
    "id": 560582,
    "utc_date": "2026-09-20T13:00:00Z",
    "matchday": 5,
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "home_id": 1044,
    "away_id": 64,
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 0,
    "forecast": {
     "home": 0.3658,
     "draw": 0.256,
@@ -633,11 +633,11 @@
    "id": 560585,
    "utc_date": "2026-09-20T13:00:00Z",
    "matchday": 5,
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "home_id": 341,
    "away_id": 354,
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 0,
    "forecast": {
     "home": 0.474,
     "draw": 0.2698,
@@ -656,11 +656,11 @@
    "id": 560590,
    "utc_date": "2026-09-20T13:00:00Z",
    "matchday": 5,
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "home_id": 65,
    "away_id": 71,
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 1,
    "forecast": {
     "home": 0.6098,
     "draw": 0.2401,
