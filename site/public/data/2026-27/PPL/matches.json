@@ -1,7 +1,7 @@
 {
  "league": "PPL",
  "season": "2026-27",
- "updated_at": "2026-09-20T13:33:44Z",
+ "updated_at": "2026-09-20T15:32:06Z",
  "results_hash": "08fea726792a4ed3f8dc550cfa99d24b8a8a4c3f",
  "teams": [
   {
@@ -723,11 +723,11 @@
    "id": 567315,
    "utc_date": "2026-09-20T14:30:00Z",
    "matchday": 7,
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "home_id": 5543,
    "away_id": 583,
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 0,
    "forecast": {
     "home": 0.4487,
     "draw": 0.2575,
@@ -746,11 +746,11 @@
    "id": 567317,
    "utc_date": "2026-09-20T14:30:00Z",
    "matchday": 7,
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "home_id": 9136,
    "away_id": 5527,
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 2,
    "forecast": {
     "home": 0.4422,
     "draw": 0.2358,
