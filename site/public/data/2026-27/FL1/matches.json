@@ -1,7 +1,7 @@
 {
  "league": "FL1",
  "season": "2026-27",
- "updated_at": "2026-09-21T23:49:15Z",
+ "updated_at": "2026-09-22T08:26:35Z",
  "results_hash": "baeeec9fef73bcddb7c2e362af54db9e5bbe93fb",
  "teams": [
   {
@@ -37,7 +37,7 @@
    "name": "Le Mans FC",
    "short_name": "Le Mans",
    "tla": "LMF",
-   "crest": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg"
+   "crest": "https://crests.football-data.org/535.png"
   },
   {
    "id": 512,

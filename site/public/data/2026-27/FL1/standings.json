@@ -78,7 +78,7 @@
   "tied_title_playoff": false,
   "tied_relegation_playoff": false
  },
- "updated_at": "2026-09-21T23:49:15Z",
+ "updated_at": "2026-09-22T08:26:35Z",
  "source": "football-data.org",
  "matchday": {
   "current": 6,
@@ -152,7 +152,7 @@
  },
  "history": {
   "snapshots": 6,
-  "updated_at": "2026-09-21T23:49:15Z"
+  "updated_at": "2026-09-22T08:26:35Z"
  },
  "teams": [
   {
@@ -976,7 +976,7 @@
    "name": "Le Mans FC",
    "short_name": "Le Mans",
    "tla": "LMF",
-   "crest": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg",
+   "crest": "https://crests.football-data.org/535.png",
    "position": 9,
    "zone": null,
    "played": 5,
