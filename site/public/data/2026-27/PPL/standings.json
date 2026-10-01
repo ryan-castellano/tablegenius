@@ -79,7 +79,7 @@
   "tied_title_playoff": false,
   "tied_relegation_playoff": false
  },
- "updated_at": "2026-10-01T10:00:44Z",
+ "updated_at": "2026-10-01T21:34:40Z",
  "source": "football-data.org",
  "matchday": {
   "current": 2,
@@ -137,23 +137,15 @@
   "relegation_playoff_survival": 0.35
  },
  "next_round": {
-  "matchday": 8,
-  "label": "this weekend",
+  "matchday": 2,
+  "label": "in midweek",
   "fixtures": [
-   567327,
-   567326,
-   567321,
-   567323,
-   567322,
-   567328,
-   567320,
-   567324,
-   567325
+   567271
   ]
  },
  "history": {
   "snapshots": 8,
-  "updated_at": "2026-10-01T10:00:44Z"
+  "updated_at": "2026-10-01T21:34:40Z"
  },
  "teams": [
   {
