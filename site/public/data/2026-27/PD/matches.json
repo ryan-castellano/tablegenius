@@ -1,7 +1,7 @@
 {
  "league": "PD",
  "season": "2026-27",
- "updated_at": "2026-10-09T01:43:18Z",
+ "updated_at": "2026-10-09T10:20:28Z",
  "results_hash": "36714bb3d55ffd456430a5a2e380a19f8bcc8857",
  "teams": [
   {
@@ -851,6 +851,12 @@
     "away": 0.3893,
     "xg_home": 1.04,
     "xg_away": 1.18
+   },
+   "market": {
+    "home": 0.3367,
+    "draw": 0.2965,
+    "away": 0.3668,
+    "source": "average of bookmakers"
    }
   },
   {
@@ -868,6 +874,12 @@
     "away": 0.3007,
     "xg_home": 1.23,
     "xg_away": 1.01
+   },
+   "market": {
+    "home": 0.3488,
+    "draw": 0.2819,
+    "away": 0.3693,
+    "source": "average of bookmakers"
    }
   },
   {
@@ -885,6 +897,12 @@
     "away": 0.4262,
     "xg_home": 1.18,
     "xg_away": 1.43
+   },
+   "market": {
+    "home": 0.2224,
+    "draw": 0.2549,
+    "away": 0.5226,
+    "source": "average of bookmakers"
    }
   },
   {
@@ -902,6 +920,12 @@
     "away": 0.0847,
     "xg_home": 2.35,
     "xg_away": 0.63
+   },
+   "market": {
+    "home": 0.8792,
+    "draw": 0.0809,
+    "away": 0.0399,
+    "source": "average of bookmakers"
    }
   },
   {
@@ -919,6 +943,12 @@
     "away": 0.2028,
     "xg_home": 2.23,
     "xg_away": 1.21
+   },
+   "market": {
+    "home": 0.6917,
+    "draw": 0.1677,
+    "away": 0.1406,
+    "source": "average of bookmakers"
    }
   },
   {
@@ -936,6 +966,12 @@
     "away": 0.3517,
     "xg_home": 1.52,
     "xg_away": 1.4
+   },
+   "market": {
+    "home": 0.3444,
+    "draw": 0.2882,
+    "away": 0.3674,
+    "source": "average of bookmakers"
    }
   },
   {
@@ -953,6 +989,12 @@
     "away": 0.263,
     "xg_home": 1.77,
     "xg_away": 1.19
+   },
+   "market": {
+    "home": 0.5814,
+    "draw": 0.2382,
+    "away": 0.1804,
+    "source": "average of bookmakers"
    }
   },
   {
@@ -970,6 +1012,12 @@
     "away": 0.1959,
     "xg_home": 1.83,
     "xg_away": 0.95
+   },
+   "market": {
+    "home": 0.6103,
+    "draw": 0.2239,
+    "away": 0.1658,
+    "source": "average of bookmakers"
    }
   },
   {
@@ -987,6 +1035,12 @@
     "away": 0.3992,
     "xg_home": 1.58,
     "xg_away": 1.65
+   },
+   "market": {
+    "home": 0.4101,
+    "draw": 0.2664,
+    "away": 0.3235,
+    "source": "average of bookmakers"
    }
   },
   {
@@ -1004,6 +1058,12 @@
     "away": 0.2992,
     "xg_home": 1.63,
     "xg_away": 1.26
+   },
+   "market": {
+    "home": 0.3489,
+    "draw": 0.2859,
+    "away": 0.3652,
+    "source": "average of bookmakers"
    }
   },
   {
