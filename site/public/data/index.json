@@ -1,13 +1,13 @@
 {
  "season": "2026-27",
- "updated_at": "2026-10-14T20:26:47Z",
+ "updated_at": "2026-10-14T23:39:59Z",
  "has_backtest": true,
  "leagues": [
   {
    "code": "PL",
    "name": "Premier League",
    "country": "England",
-   "updated_at": "2026-10-14T20:25:30Z",
+   "updated_at": "2026-10-14T23:38:43Z",
    "matchday": {
     "current": 7,
     "total": 38,
@@ -23,7 +23,7 @@
    "code": "PD",
    "name": "LaLiga",
    "country": "Spain",
-   "updated_at": "2026-10-14T20:25:42Z",
+   "updated_at": "2026-10-14T23:38:54Z",
    "matchday": {
     "current": 6,
     "total": 38,
@@ -39,23 +39,23 @@
    "code": "SA",
    "name": "Serie A",
    "country": "Italy",
-   "updated_at": "2026-10-14T20:25:56Z",
+   "updated_at": "2026-10-14T23:39:08Z",
    "matchday": {
-    "current": 7,
+    "current": 6,
     "total": 38,
-    "matches_played": 60,
+    "matches_played": 53,
     "matches_total": 380
    },
    "source": "football-data.org",
    "has_probabilities": true,
-   "model_as_of": "2026-10-12T23:27:54Z",
+   "model_as_of": "2026-10-14T23:39:07Z",
    "has_history": true
   },
   {
    "code": "BL1",
    "name": "Bundesliga",
    "country": "Germany",
-   "updated_at": "2026-10-14T20:26:08Z",
+   "updated_at": "2026-10-14T23:39:20Z",
    "matchday": {
     "current": 6,
     "total": 34,
@@ -71,7 +71,7 @@
    "code": "FL1",
    "name": "Ligue 1",
    "country": "France",
-   "updated_at": "2026-10-14T20:26:21Z",
+   "updated_at": "2026-10-14T23:39:33Z",
    "matchday": {
     "current": 7,
     "total": 34,
@@ -87,7 +87,7 @@
    "code": "DED",
    "name": "Eredivisie",
    "country": "Netherlands",
-   "updated_at": "2026-10-14T20:26:34Z",
+   "updated_at": "2026-10-14T23:39:46Z",
    "matchday": {
     "current": 9,
     "total": 34,
@@ -103,7 +103,7 @@
    "code": "PPL",
    "name": "Primeira Liga",
    "country": "Portugal",
-   "updated_at": "2026-10-14T20:26:47Z",
+   "updated_at": "2026-10-14T23:39:59Z",
    "matchday": {
     "current": 2,
     "total": 34,
