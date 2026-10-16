@@ -1,7 +1,7 @@
 {
  "league": "DED",
  "season": "2026-27",
- "updated_at": "2026-10-16T13:54:23Z",
+ "updated_at": "2026-10-16T19:49:13Z",
  "results_hash": "fa2ddeeca3723ab777de6797b19bb37f8ab76593",
  "teams": [
   {
@@ -856,11 +856,11 @@
    "id": 558872,
    "utc_date": "2026-10-16T18:00:00Z",
    "matchday": 9,
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "home_id": 673,
    "away_id": 670,
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 0,
    "forecast": {
     "home": 0.4427,
     "draw": 0.2541,

@@ -1,7 +1,7 @@
 {
  "league": "SA",
  "season": "2026-27",
- "updated_at": "2026-10-16T13:53:44Z",
+ "updated_at": "2026-10-16T19:48:35Z",
  "results_hash": "8d892d1142b072eee89ec76affff4edf3bba5f02",
  "teams": [
   {
@@ -750,11 +750,11 @@
    "id": 558573,
    "utc_date": "2026-10-16T18:45:00Z",
    "matchday": 7,
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "home_id": 470,
    "away_id": 471,
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 3,
+   "away_goals": 2,
    "forecast": {
     "home": 0.3841,
     "draw": 0.2597,
