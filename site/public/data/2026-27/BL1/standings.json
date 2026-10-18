@@ -72,7 +72,7 @@
   "tied_title_playoff": false,
   "tied_relegation_playoff": false
  },
- "updated_at": "2026-10-18T13:09:33Z",
+ "updated_at": "2026-10-18T15:26:36Z",
  "source": "football-data.org",
  "matchday": {
   "current": 6,
@@ -140,7 +140,7 @@
  },
  "history": {
   "snapshots": 7,
-  "updated_at": "2026-10-18T13:09:32Z"
+  "updated_at": "2026-10-18T15:26:36Z"
  },
  "teams": [
   {
@@ -1982,7 +1982,36 @@
  ],
  "source_check": {
   "available": true,
-  "totals_match": true,
-  "diffs": []
+  "totals_match": false,
+  "diffs": [
+   {
+    "team": "SC Freiburg",
+    "issue": "totals differ",
+    "ours": [
+     5,
+     13,
+     10
+    ],
+    "api": [
+     6,
+     13,
+     9
+    ]
+   },
+   {
+    "team": "Bayer 04 Leverkusen",
+    "issue": "totals differ",
+    "ours": [
+     5,
+     10,
+     6
+    ],
+    "api": [
+     6,
+     13,
+     7
+    ]
+   }
+  ]
  }
 }
