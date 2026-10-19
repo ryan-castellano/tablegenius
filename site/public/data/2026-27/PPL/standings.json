@@ -79,7 +79,7 @@
   "tied_title_playoff": false,
   "tied_relegation_playoff": false
  },
- "updated_at": "2026-10-19T16:24:23Z",
+ "updated_at": "2026-10-19T21:21:22Z",
  "source": "football-data.org",
  "matchday": {
   "current": 2,
@@ -145,7 +145,7 @@
  },
  "history": {
   "snapshots": 9,
-  "updated_at": "2026-10-19T16:24:23Z"
+  "updated_at": "2026-10-19T21:21:22Z"
  },
  "teams": [
   {
@@ -1987,7 +1987,48 @@
  ],
  "source_check": {
   "available": true,
-  "totals_match": true,
-  "diffs": []
+  "totals_match": false,
+  "diffs": [
+   {
+    "team": "Gil Vicente FC",
+    "issue": "totals differ",
+    "ours": [
+     7,
+     11,
+     1
+    ],
+    "api": [
+     8,
+     14,
+     2
+    ]
+   },
+   {
+    "team": "Académico de Viseu FC",
+    "issue": "position differs (tiebreak)",
+    "ours": 6,
+    "api": 7
+   },
+   {
+    "team": "FC Alverca",
+    "issue": "position differs (tiebreak)",
+    "ours": 7,
+    "api": 8
+   },
+   {
+    "team": "Sporting Clube de Braga",
+    "issue": "totals differ",
+    "ours": [
+     7,
+     11,
+     0
+    ],
+    "api": [
+     8,
+     11,
+     -1
+    ]
+   }
+  ]
  }
 }
