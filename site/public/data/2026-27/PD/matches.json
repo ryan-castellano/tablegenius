@@ -1,7 +1,7 @@
 {
  "league": "PD",
  "season": "2026-27",
- "updated_at": "2026-10-20T08:23:20Z",
+ "updated_at": "2026-10-20T14:14:36Z",
  "results_hash": "d399ff63c6a0291900473c51f0d5b51dca72c990",
  "teams": [
   {
@@ -1051,6 +1051,12 @@
     "away": 0.3356,
     "xg_home": 1.4,
     "xg_away": 1.26
+   },
+   "market": {
+    "home": 0.2755,
+    "draw": 0.2864,
+    "away": 0.4382,
+    "source": "average of bookmakers"
    }
   },
   {
