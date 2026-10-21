@@ -1,7 +1,7 @@
 {
  "league": "FL1",
  "season": "2026-27",
- "updated_at": "2026-10-21T08:27:25Z",
+ "updated_at": "2026-10-21T14:27:11Z",
  "results_hash": "85449aa52e799b289b7b28cb6f603c26d6b2785c",
  "teams": [
   {
@@ -780,23 +780,6 @@
    }
   },
   {
-   "id": 559655,
-   "utc_date": "2026-10-24T15:15:00Z",
-   "matchday": 8,
-   "status": "TIMED",
-   "home_id": 511,
-   "away_id": 531,
-   "home_goals": null,
-   "away_goals": null,
-   "forecast": {
-    "home": 0.6636,
-    "draw": 0.1962,
-    "away": 0.1402,
-    "xg_home": 2.19,
-    "xg_away": 0.86
-   }
-  },
-  {
    "id": 559652,
    "utc_date": "2026-10-24T18:45:00Z",
    "matchday": 8,
@@ -879,6 +862,23 @@
     "away": 0.4291,
     "xg_home": 1.05,
     "xg_away": 1.34
+   }
+  },
+  {
+   "id": 559655,
+   "utc_date": "2026-10-25T16:15:00Z",
+   "matchday": 8,
+   "status": "TIMED",
+   "home_id": 511,
+   "away_id": 531,
+   "home_goals": null,
+   "away_goals": null,
+   "forecast": {
+    "home": 0.6636,
+    "draw": 0.1962,
+    "away": 0.1402,
+    "xg_home": 2.19,
+    "xg_away": 0.86
    }
   },
   {
@@ -1528,27 +1528,44 @@
    }
   },
   {
-   "id": 559603,
-   "utc_date": "2026-12-05T00:00:00Z",
+   "id": 559609,
+   "utc_date": "2026-12-04T19:45:00Z",
    "matchday": 13,
-   "status": "SCHEDULED",
-   "home_id": 531,
-   "away_id": 523,
+   "status": "TIMED",
+   "home_id": 511,
+   "away_id": 524,
    "home_goals": null,
    "away_goals": null,
    "forecast": {
-    "home": 0.1657,
-    "draw": 0.2021,
-    "away": 0.6322,
-    "xg_home": 0.96,
-    "xg_away": 2.15
+    "home": 0.2438,
+    "draw": 0.2326,
+    "away": 0.5236,
+    "xg_home": 1.18,
+    "xg_away": 1.85
+   }
+  },
+  {
+   "id": 559606,
+   "utc_date": "2026-12-05T16:15:00Z",
+   "matchday": 13,
+   "status": "TIMED",
+   "home_id": 521,
+   "away_id": 519,
+   "home_goals": null,
+   "away_goals": null,
+   "forecast": {
+    "home": 0.5375,
+    "draw": 0.2578,
+    "away": 0.2046,
+    "xg_home": 1.6,
+    "xg_away": 0.88
    }
   },
   {
    "id": 559604,
-   "utc_date": "2026-12-05T00:00:00Z",
+   "utc_date": "2026-12-05T19:45:00Z",
    "matchday": 13,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 548,
    "away_id": 532,
    "home_goals": null,
@@ -1563,9 +1580,9 @@
   },
   {
    "id": 559605,
-   "utc_date": "2026-12-05T00:00:00Z",
+   "utc_date": "2026-12-05T19:45:00Z",
    "matchday": 13,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 546,
    "away_id": 533,
    "home_goals": null,
@@ -1579,78 +1596,10 @@
    }
   },
   {
-   "id": 559606,
-   "utc_date": "2026-12-05T00:00:00Z",
-   "matchday": 13,
-   "status": "SCHEDULED",
-   "home_id": 521,
-   "away_id": 519,
-   "home_goals": null,
-   "away_goals": null,
-   "forecast": {
-    "home": 0.5375,
-    "draw": 0.2578,
-    "away": 0.2046,
-    "xg_home": 1.6,
-    "xg_away": 0.88
-   }
-  },
-  {
-   "id": 559607,
-   "utc_date": "2026-12-05T00:00:00Z",
-   "matchday": 13,
-   "status": "SCHEDULED",
-   "home_id": 516,
-   "away_id": 522,
-   "home_goals": null,
-   "away_goals": null,
-   "forecast": {
-    "home": 0.5868,
-    "draw": 0.2083,
-    "away": 0.2049,
-    "xg_home": 2.15,
-    "xg_away": 1.19
-   }
-  },
-  {
-   "id": 559608,
-   "utc_date": "2026-12-05T00:00:00Z",
-   "matchday": 13,
-   "status": "SCHEDULED",
-   "home_id": 529,
-   "away_id": 512,
-   "home_goals": null,
-   "away_goals": null,
-   "forecast": {
-    "home": 0.5413,
-    "draw": 0.2103,
-    "away": 0.2484,
-    "xg_home": 2.15,
-    "xg_away": 1.4
-   }
-  },
-  {
-   "id": 559609,
-   "utc_date": "2026-12-05T00:00:00Z",
-   "matchday": 13,
-   "status": "SCHEDULED",
-   "home_id": 511,
-   "away_id": 524,
-   "home_goals": null,
-   "away_goals": null,
-   "forecast": {
-    "home": 0.2438,
-    "draw": 0.2326,
-    "away": 0.5236,
-    "xg_home": 1.18,
-    "xg_away": 1.85
-   }
-  },
-  {
    "id": 559610,
-   "utc_date": "2026-12-05T00:00:00Z",
+   "utc_date": "2026-12-05T19:45:00Z",
    "matchday": 13,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 576,
    "away_id": 525,
    "home_goals": null,
@@ -1665,9 +1614,9 @@
   },
   {
    "id": 559611,
-   "utc_date": "2026-12-05T00:00:00Z",
+   "utc_date": "2026-12-05T19:45:00Z",
    "matchday": 13,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 1045,
    "away_id": 535,
    "home_goals": null,
@@ -1681,27 +1630,78 @@
    }
   },
   {
-   "id": 559595,
-   "utc_date": "2026-12-12T00:00:00Z",
-   "matchday": 14,
-   "status": "SCHEDULED",
-   "home_id": 522,
-   "away_id": 546,
+   "id": 559603,
+   "utc_date": "2026-12-06T14:00:00Z",
+   "matchday": 13,
+   "status": "TIMED",
+   "home_id": 531,
+   "away_id": 523,
    "home_goals": null,
    "away_goals": null,
    "forecast": {
-    "home": 0.292,
-    "draw": 0.2479,
-    "away": 0.46,
-    "xg_home": 1.26,
-    "xg_away": 1.64
+    "home": 0.1657,
+    "draw": 0.2021,
+    "away": 0.6322,
+    "xg_home": 0.96,
+    "xg_away": 2.15
+   }
+  },
+  {
+   "id": 559608,
+   "utc_date": "2026-12-06T16:15:00Z",
+   "matchday": 13,
+   "status": "TIMED",
+   "home_id": 529,
+   "away_id": 512,
+   "home_goals": null,
+   "away_goals": null,
+   "forecast": {
+    "home": 0.5413,
+    "draw": 0.2103,
+    "away": 0.2484,
+    "xg_home": 2.15,
+    "xg_away": 1.4
+   }
+  },
+  {
+   "id": 559607,
+   "utc_date": "2026-12-06T19:45:00Z",
+   "matchday": 13,
+   "status": "TIMED",
+   "home_id": 516,
+   "away_id": 522,
+   "home_goals": null,
+   "away_goals": null,
+   "forecast": {
+    "home": 0.5868,
+    "draw": 0.2083,
+    "away": 0.2049,
+    "xg_home": 2.15,
+    "xg_away": 1.19
+   }
+  },
+  {
+   "id": 559602,
+   "utc_date": "2026-12-11T19:45:00Z",
+   "matchday": 14,
+   "status": "TIMED",
+   "home_id": 519,
+   "away_id": 511,
+   "home_goals": null,
+   "away_goals": null,
+   "forecast": {
+    "home": 0.3627,
+    "draw": 0.2674,
+    "away": 0.3699,
+    "xg_home": 1.31,
+    "xg_away": 1.33
    }
   },
   {
    "id": 559596,
-   "utc_date": "2026-12-12T00:00:00Z",
+   "utc_date": "2026-12-12T16:15:00Z",
    "matchday": 14,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 524,
    "away_id": 1045,
    "home_goals": null,
@@ -1715,10 +1715,27 @@
    }
   },
   {
-   "id": 559597,
-   "utc_date": "2026-12-12T00:00:00Z",
+   "id": 559595,
+   "utc_date": "2026-12-12T19:45:00Z",
    "matchday": 14,
-   "status": "SCHEDULED",
+   "status": "TIMED",
+   "home_id": 522,
+   "away_id": 546,
+   "home_goals": null,
+   "away_goals": null,
+   "forecast": {
+    "home": 0.292,
+    "draw": 0.2479,
+    "away": 0.46,
+    "xg_home": 1.26,
+    "xg_away": 1.64
+   }
+  },
+  {
+   "id": 559597,
+   "utc_date": "2026-12-12T19:45:00Z",
+   "matchday": 14,
+   "status": "TIMED",
    "home_id": 532,
    "away_id": 576,
    "home_goals": null,
@@ -1733,9 +1750,9 @@
   },
   {
    "id": 559598,
-   "utc_date": "2026-12-12T00:00:00Z",
+   "utc_date": "2026-12-12T19:45:00Z",
    "matchday": 14,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 512,
    "away_id": 531,
    "home_goals": null,
@@ -1750,9 +1767,9 @@
   },
   {
    "id": 559599,
-   "utc_date": "2026-12-12T00:00:00Z",
+   "utc_date": "2026-12-12T19:45:00Z",
    "matchday": 14,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 533,
    "away_id": 535,
    "home_goals": null,
@@ -1766,27 +1783,10 @@
    }
   },
   {
-   "id": 559600,
-   "utc_date": "2026-12-12T00:00:00Z",
-   "matchday": 14,
-   "status": "SCHEDULED",
-   "home_id": 529,
-   "away_id": 548,
-   "home_goals": null,
-   "away_goals": null,
-   "forecast": {
-    "home": 0.4256,
-    "draw": 0.2245,
-    "away": 0.35,
-    "xg_home": 1.85,
-    "xg_away": 1.66
-   }
-  },
-  {
    "id": 559601,
-   "utc_date": "2026-12-12T00:00:00Z",
+   "utc_date": "2026-12-13T14:00:00Z",
    "matchday": 14,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 525,
    "away_id": 521,
    "home_goals": null,
@@ -1800,20 +1800,20 @@
    }
   },
   {
-   "id": 559602,
-   "utc_date": "2026-12-12T00:00:00Z",
+   "id": 559600,
+   "utc_date": "2026-12-13T16:15:00Z",
    "matchday": 14,
-   "status": "SCHEDULED",
-   "home_id": 519,
-   "away_id": 511,
+   "status": "TIMED",
+   "home_id": 529,
+   "away_id": 548,
    "home_goals": null,
    "away_goals": null,
    "forecast": {
-    "home": 0.3627,
-    "draw": 0.2674,
-    "away": 0.3699,
-    "xg_home": 1.31,
-    "xg_away": 1.33
+    "home": 0.4256,
+    "draw": 0.2245,
+    "away": 0.35,
+    "xg_home": 1.85,
+    "xg_away": 1.66
    }
   },
   {
@@ -1834,27 +1834,10 @@
    }
   },
   {
-   "id": 559586,
-   "utc_date": "2027-01-02T00:00:00Z",
-   "matchday": 15,
-   "status": "SCHEDULED",
-   "home_id": 535,
-   "away_id": 523,
-   "home_goals": null,
-   "away_goals": null,
-   "forecast": {
-    "home": 0.2321,
-    "draw": 0.219,
-    "away": 0.5488,
-    "xg_home": 1.21,
-    "xg_away": 1.99
-   }
-  },
-  {
    "id": 559587,
-   "utc_date": "2027-01-02T00:00:00Z",
+   "utc_date": "2027-01-02T16:00:00Z",
    "matchday": 15,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 512,
    "away_id": 516,
    "home_goals": null,
@@ -1869,9 +1852,9 @@
   },
   {
    "id": 559588,
-   "utc_date": "2027-01-02T00:00:00Z",
+   "utc_date": "2027-01-02T20:00:00Z",
    "matchday": 15,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 531,
    "away_id": 529,
    "home_goals": null,
@@ -1886,9 +1869,9 @@
   },
   {
    "id": 559589,
-   "utc_date": "2027-01-02T00:00:00Z",
+   "utc_date": "2027-01-02T20:00:00Z",
    "matchday": 15,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 511,
    "away_id": 532,
    "home_goals": null,
@@ -1903,9 +1886,9 @@
   },
   {
    "id": 559590,
-   "utc_date": "2027-01-02T00:00:00Z",
+   "utc_date": "2027-01-02T20:00:00Z",
    "matchday": 15,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 548,
    "away_id": 522,
    "home_goals": null,
@@ -1920,9 +1903,9 @@
   },
   {
    "id": 559591,
-   "utc_date": "2027-01-02T00:00:00Z",
+   "utc_date": "2027-01-02T20:00:00Z",
    "matchday": 15,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 1045,
    "away_id": 533,
    "home_goals": null,
@@ -1937,9 +1920,9 @@
   },
   {
    "id": 559592,
-   "utc_date": "2027-01-02T00:00:00Z",
+   "utc_date": "2027-01-02T20:00:00Z",
    "matchday": 15,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 525,
    "away_id": 519,
    "home_goals": null,
@@ -1953,10 +1936,27 @@
    }
   },
   {
-   "id": 559593,
-   "utc_date": "2027-01-02T00:00:00Z",
+   "id": 559586,
+   "utc_date": "2027-01-03T14:00:00Z",
    "matchday": 15,
-   "status": "SCHEDULED",
+   "status": "TIMED",
+   "home_id": 535,
+   "away_id": 523,
+   "home_goals": null,
+   "away_goals": null,
+   "forecast": {
+    "home": 0.2321,
+    "draw": 0.219,
+    "away": 0.5488,
+    "xg_home": 1.21,
+    "xg_away": 1.99
+   }
+  },
+  {
+   "id": 559593,
+   "utc_date": "2027-01-03T16:15:00Z",
+   "matchday": 15,
+   "status": "TIMED",
    "home_id": 521,
    "away_id": 576,
    "home_goals": null,
@@ -1988,9 +1988,9 @@
   },
   {
    "id": 559576,
-   "utc_date": "2027-01-16T00:00:00Z",
+   "utc_date": "2027-01-15T19:45:00Z",
    "matchday": 16,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 516,
    "away_id": 521,
    "home_goals": null,
@@ -2004,44 +2004,27 @@
    }
   },
   {
-   "id": 559577,
-   "utc_date": "2027-01-16T00:00:00Z",
+   "id": 559584,
+   "utc_date": "2027-01-16T16:15:00Z",
    "matchday": 16,
-   "status": "SCHEDULED",
-   "home_id": 523,
-   "away_id": 525,
+   "status": "TIMED",
+   "home_id": 532,
+   "away_id": 524,
    "home_goals": null,
    "away_goals": null,
    "forecast": {
-    "home": 0.519,
-    "draw": 0.2431,
-    "away": 0.2379,
-    "xg_home": 1.72,
-    "xg_away": 1.08
-   }
-  },
-  {
-   "id": 559578,
-   "utc_date": "2027-01-16T00:00:00Z",
-   "matchday": 16,
-   "status": "SCHEDULED",
-   "home_id": 1045,
-   "away_id": 511,
-   "home_goals": null,
-   "away_goals": null,
-   "forecast": {
-    "home": 0.4447,
-    "draw": 0.2569,
-    "away": 0.2984,
-    "xg_home": 1.55,
-    "xg_away": 1.21
+    "home": 0.1402,
+    "draw": 0.2001,
+    "away": 0.6597,
+    "xg_home": 0.86,
+    "xg_away": 2.13
    }
   },
   {
    "id": 559579,
-   "utc_date": "2027-01-16T00:00:00Z",
+   "utc_date": "2027-01-16T19:45:00Z",
    "matchday": 16,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 529,
    "away_id": 546,
    "home_goals": null,
@@ -2056,9 +2039,9 @@
   },
   {
    "id": 559580,
-   "utc_date": "2027-01-16T00:00:00Z",
+   "utc_date": "2027-01-16T19:45:00Z",
    "matchday": 16,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 522,
    "away_id": 533,
    "home_goals": null,
@@ -2073,9 +2056,9 @@
   },
   {
    "id": 559581,
-   "utc_date": "2027-01-16T00:00:00Z",
+   "utc_date": "2027-01-16T19:45:00Z",
    "matchday": 16,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 519,
    "away_id": 531,
    "home_goals": null,
@@ -2090,9 +2073,9 @@
   },
   {
    "id": 559582,
-   "utc_date": "2027-01-16T00:00:00Z",
+   "utc_date": "2027-01-16T19:45:00Z",
    "matchday": 16,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 576,
    "away_id": 535,
    "home_goals": null,
@@ -2106,10 +2089,27 @@
    }
   },
   {
-   "id": 559583,
-   "utc_date": "2027-01-16T00:00:00Z",
+   "id": 559578,
+   "utc_date": "2027-01-17T14:00:00Z",
    "matchday": 16,
-   "status": "SCHEDULED",
+   "status": "TIMED",
+   "home_id": 1045,
+   "away_id": 511,
+   "home_goals": null,
+   "away_goals": null,
+   "forecast": {
+    "home": 0.4447,
+    "draw": 0.2569,
+    "away": 0.2984,
+    "xg_home": 1.55,
+    "xg_away": 1.21
+   }
+  },
+  {
+   "id": 559583,
+   "utc_date": "2027-01-17T16:15:00Z",
+   "matchday": 16,
+   "status": "TIMED",
    "home_id": 548,
    "away_id": 512,
    "home_goals": null,
@@ -2123,61 +2123,44 @@
    }
   },
   {
-   "id": 559584,
-   "utc_date": "2027-01-16T00:00:00Z",
+   "id": 559577,
+   "utc_date": "2027-01-17T19:45:00Z",
    "matchday": 16,
-   "status": "SCHEDULED",
-   "home_id": 532,
-   "away_id": 524,
+   "status": "TIMED",
+   "home_id": 523,
+   "away_id": 525,
    "home_goals": null,
    "away_goals": null,
    "forecast": {
-    "home": 0.1402,
-    "draw": 0.2001,
-    "away": 0.6597,
-    "xg_home": 0.86,
-    "xg_away": 2.13
+    "home": 0.519,
+    "draw": 0.2431,
+    "away": 0.2379,
+    "xg_home": 1.72,
+    "xg_away": 1.08
    }
   },
   {
-   "id": 559567,
-   "utc_date": "2027-01-23T00:00:00Z",
+   "id": 559572,
+   "utc_date": "2027-01-22T19:45:00Z",
    "matchday": 17,
-   "status": "SCHEDULED",
-   "home_id": 533,
-   "away_id": 529,
+   "status": "TIMED",
+   "home_id": 531,
+   "away_id": 548,
    "home_goals": null,
    "away_goals": null,
    "forecast": {
-    "home": 0.2927,
-    "draw": 0.2463,
-    "away": 0.461,
-    "xg_home": 1.28,
-    "xg_away": 1.67
-   }
-  },
-  {
-   "id": 559568,
-   "utc_date": "2027-01-23T00:00:00Z",
-   "matchday": 17,
-   "status": "SCHEDULED",
-   "home_id": 576,
-   "away_id": 523,
-   "home_goals": null,
-   "away_goals": null,
-   "forecast": {
-    "home": 0.3869,
-    "draw": 0.24,
-    "away": 0.3731,
-    "xg_home": 1.6,
-    "xg_away": 1.57
+    "home": 0.1846,
+    "draw": 0.2043,
+    "away": 0.6111,
+    "xg_home": 1.07,
+    "xg_away": 2.16
    }
   },
   {
    "id": 559569,
-   "utc_date": "2027-01-23T00:00:00Z",
+   "utc_date": "2027-01-23T16:15:00Z",
    "matchday": 17,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 521,
    "away_id": 1045,
    "home_goals": null,
@@ -2192,9 +2175,9 @@
   },
   {
    "id": 559570,
-   "utc_date": "2027-01-23T00:00:00Z",
+   "utc_date": "2027-01-23T19:45:00Z",
    "matchday": 17,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 546,
    "away_id": 512,
    "home_goals": null,
@@ -2209,9 +2192,9 @@
   },
   {
    "id": 559571,
-   "utc_date": "2027-01-23T00:00:00Z",
+   "utc_date": "2027-01-23T19:45:00Z",
    "matchday": 17,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 524,
    "away_id": 519,
    "home_goals": null,
@@ -2225,44 +2208,10 @@
    }
   },
   {
-   "id": 559572,
-   "utc_date": "2027-01-23T00:00:00Z",
-   "matchday": 17,
-   "status": "SCHEDULED",
-   "home_id": 531,
-   "away_id": 548,
-   "home_goals": null,
-   "away_goals": null,
-   "forecast": {
-    "home": 0.1846,
-    "draw": 0.2043,
-    "away": 0.6111,
-    "xg_home": 1.07,
-    "xg_away": 2.16
-   }
-  },
-  {
-   "id": 559573,
-   "utc_date": "2027-01-23T00:00:00Z",
-   "matchday": 17,
-   "status": "SCHEDULED",
-   "home_id": 525,
-   "away_id": 516,
-   "home_goals": null,
-   "away_goals": null,
-   "forecast": {
-    "home": 0.3571,
-    "draw": 0.2451,
-    "away": 0.3978,
-    "xg_home": 1.47,
-    "xg_away": 1.56
-   }
-  },
-  {
    "id": 559574,
-   "utc_date": "2027-01-23T00:00:00Z",
+   "utc_date": "2027-01-23T19:45:00Z",
    "matchday": 17,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 535,
    "away_id": 532,
    "home_goals": null,
@@ -2277,9 +2226,9 @@
   },
   {
    "id": 559575,
-   "utc_date": "2027-01-23T00:00:00Z",
+   "utc_date": "2027-01-23T19:45:00Z",
    "matchday": 17,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 511,
    "away_id": 522,
    "home_goals": null,
@@ -2293,112 +2242,61 @@
    }
   },
   {
-   "id": 559558,
-   "utc_date": "2027-01-30T00:00:00Z",
-   "matchday": 18,
-   "status": "SCHEDULED",
-   "home_id": 1045,
-   "away_id": 519,
+   "id": 559567,
+   "utc_date": "2027-01-24T14:00:00Z",
+   "matchday": 17,
+   "status": "TIMED",
+   "home_id": 533,
+   "away_id": 529,
    "home_goals": null,
    "away_goals": null,
    "forecast": {
-    "home": 0.5087,
-    "draw": 0.2491,
-    "away": 0.2423,
-    "xg_home": 1.69,
-    "xg_away": 1.08
+    "home": 0.2927,
+    "draw": 0.2463,
+    "away": 0.461,
+    "xg_home": 1.28,
+    "xg_away": 1.67
    }
   },
   {
-   "id": 559559,
-   "utc_date": "2027-01-30T00:00:00Z",
-   "matchday": 18,
-   "status": "SCHEDULED",
-   "home_id": 523,
-   "away_id": 521,
+   "id": 559573,
+   "utc_date": "2027-01-24T16:15:00Z",
+   "matchday": 17,
+   "status": "TIMED",
+   "home_id": 525,
+   "away_id": 516,
    "home_goals": null,
    "away_goals": null,
    "forecast": {
-    "home": 0.4369,
-    "draw": 0.2687,
-    "away": 0.2944,
-    "xg_home": 1.43,
-    "xg_away": 1.12
+    "home": 0.3571,
+    "draw": 0.2451,
+    "away": 0.3978,
+    "xg_home": 1.47,
+    "xg_away": 1.56
    }
   },
   {
-   "id": 559560,
-   "utc_date": "2027-01-30T00:00:00Z",
-   "matchday": 18,
-   "status": "SCHEDULED",
-   "home_id": 529,
-   "away_id": 525,
+   "id": 559568,
+   "utc_date": "2027-01-24T19:45:00Z",
+   "matchday": 17,
+   "status": "TIMED",
+   "home_id": 576,
+   "away_id": 523,
    "home_goals": null,
    "away_goals": null,
    "forecast": {
-    "home": 0.4743,
-    "draw": 0.2382,
-    "away": 0.2875,
-    "xg_home": 1.76,
-    "xg_away": 1.32
-   }
-  },
-  {
-   "id": 559561,
-   "utc_date": "2027-01-30T00:00:00Z",
-   "matchday": 18,
-   "status": "SCHEDULED",
-   "home_id": 535,
-   "away_id": 522,
-   "home_goals": null,
-   "away_goals": null,
-   "forecast": {
-    "home": 0.3509,
-    "draw": 0.2435,
-    "away": 0.4056,
-    "xg_home": 1.44,
+    "home": 0.3869,
+    "draw": 0.24,
+    "away": 0.3731,
+    "xg_home": 1.6,
     "xg_away": 1.57
    }
   },
   {
-   "id": 559562,
-   "utc_date": "2027-01-30T00:00:00Z",
-   "matchday": 18,
-   "status": "SCHEDULED",
-   "home_id": 516,
-   "away_id": 531,
-   "home_goals": null,
-   "away_goals": null,
-   "forecast": {
-    "home": 0.7607,
-    "draw": 0.142,
-    "away": 0.0973,
-    "xg_home": 2.87,
-    "xg_away": 0.9
-   }
-  },
-  {
-   "id": 559563,
-   "utc_date": "2027-01-30T00:00:00Z",
-   "matchday": 18,
-   "status": "SCHEDULED",
-   "home_id": 532,
-   "away_id": 533,
-   "home_goals": null,
-   "away_goals": null,
-   "forecast": {
-    "home": 0.3858,
-    "draw": 0.2917,
-    "away": 0.3224,
-    "xg_home": 1.21,
-    "xg_away": 1.07
-   }
-  },
-  {
    "id": 559564,
-   "utc_date": "2027-01-30T00:00:00Z",
+   "utc_date": "2027-01-29T19:45:00Z",
    "matchday": 18,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 512,
    "away_id": 576,
    "home_goals": null,
@@ -2413,9 +2311,9 @@
   },
   {
    "id": 559565,
-   "utc_date": "2027-01-30T00:00:00Z",
+   "utc_date": "2027-01-30T16:15:00Z",
    "matchday": 18,
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "home_id": 548,
    "away_id": 524,
    "home_goals": null,
@@ -2429,10 +2327,61 @@
    }
   },
   {
-   "id": 559566,
-   "utc_date": "2027-01-30T00:00:00Z",
+   "id": 559558,
+   "utc_date": "2027-01-30T19:45:00Z",
    "matchday": 18,
-   "status": "SCHEDULED",
+   "status": "TIMED",
+   "home_id": 1045,
+   "away_id": 519,
+   "home_goals": null,
+   "away_goals": null,
+   "forecast": {
+    "home": 0.5087,
+    "draw": 0.2491,
+    "away": 0.2423,
+    "xg_home": 1.69,
+    "xg_away": 1.08
+   }
+  },
+  {
+   "id": 559561,
+   "utc_date": "2027-01-30T19:45:00Z",
+   "matchday": 18,
+   "status": "TIMED",
+   "home_id": 535,
+   "away_id": 522,
+   "home_goals": null,
+   "away_goals": null,
+   "forecast": {
+    "home": 0.3509,
+    "draw": 0.2435,
+    "away": 0.4056,
+    "xg_home": 1.44,
+    "xg_away": 1.57
+   }
+  },
+  {
+   "id": 559563,
+   "utc_date": "2027-01-30T19:45:00Z",
+   "matchday": 18,
+   "status": "TIMED",
+   "home_id": 532,
+   "away_id": 533,
+   "home_goals": null,
+   "away_goals": null,
+   "forecast": {
+    "home": 0.3858,
+    "draw": 0.2917,
+    "away": 0.3224,
+    "xg_home": 1.21,
+    "xg_away": 1.07
+   }
+  },
+  {
+   "id": 559566,
+   "utc_date": "2027-01-30T19:45:00Z",
+   "matchday": 18,
+   "status": "TIMED",
    "home_id": 511,
    "away_id": 546,
    "home_goals": null,
@@ -2443,6 +2392,57 @@
     "away": 0.4036,
     "xg_home": 1.33,
     "xg_away": 1.48
+   }
+  },
+  {
+   "id": 559560,
+   "utc_date": "2027-01-31T14:00:00Z",
+   "matchday": 18,
+   "status": "TIMED",
+   "home_id": 529,
+   "away_id": 525,
+   "home_goals": null,
+   "away_goals": null,
+   "forecast": {
+    "home": 0.4743,
+    "draw": 0.2382,
+    "away": 0.2875,
+    "xg_home": 1.76,
+    "xg_away": 1.32
+   }
+  },
+  {
+   "id": 559562,
+   "utc_date": "2027-01-31T16:15:00Z",
+   "matchday": 18,
+   "status": "TIMED",
+   "home_id": 516,
+   "away_id": 531,
+   "home_goals": null,
+   "away_goals": null,
+   "forecast": {
+    "home": 0.7607,
+    "draw": 0.142,
+    "away": 0.0973,
+    "xg_home": 2.87,
+    "xg_away": 0.9
+   }
+  },
+  {
+   "id": 559559,
+   "utc_date": "2027-01-31T19:45:00Z",
+   "matchday": 18,
+   "status": "TIMED",
+   "home_id": 523,
+   "away_id": 521,
+   "home_goals": null,
+   "away_goals": null,
+   "forecast": {
+    "home": 0.4369,
+    "draw": 0.2687,
+    "away": 0.2944,
+    "xg_home": 1.43,
+    "xg_away": 1.12
    }
   },
   {

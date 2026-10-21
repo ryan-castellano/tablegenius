@@ -78,7 +78,7 @@
   "tied_title_playoff": false,
   "tied_relegation_playoff": false
  },
- "updated_at": "2026-10-21T08:27:25Z",
+ "updated_at": "2026-10-21T14:27:11Z",
  "source": "football-data.org",
  "matchday": {
   "current": 8,
@@ -140,19 +140,19 @@
   "label": "this weekend",
   "fixtures": [
    559654,
-   559655,
    559652,
    559650,
    559649,
    559651,
    559653,
+   559655,
    559656,
    559648
   ]
  },
  "history": {
   "snapshots": 8,
-  "updated_at": "2026-10-21T08:27:25Z"
+  "updated_at": "2026-10-21T14:27:11Z"
  },
  "teams": [
   {
