@@ -1,7 +1,7 @@
 {
  "league": "BL1",
  "season": "2026-27",
- "updated_at": "2026-10-23T14:11:08Z",
+ "updated_at": "2026-10-23T20:12:46Z",
  "results_hash": "341b781edd2a65da409190e308c6c850682a2c76",
  "teams": [
   {
@@ -676,11 +676,11 @@
    "id": 565833,
    "utc_date": "2026-10-23T18:30:00Z",
    "matchday": 7,
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "home_id": 10,
    "away_id": 18,
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 3,
    "forecast": {
     "home": 0.6278,
     "draw": 0.1953,
