@@ -1,7 +1,7 @@
 {
  "league": "FL1",
  "season": "2026-27",
- "updated_at": "2026-10-23T08:26:17Z",
+ "updated_at": "2026-10-23T14:11:21Z",
  "results_hash": "85449aa52e799b289b7b28cb6f603c26d6b2785c",
  "teams": [
   {
@@ -777,6 +777,12 @@
     "away": 0.3148,
     "xg_home": 1.66,
     "xg_away": 1.37
+   },
+   "market": {
+    "home": 0.4266,
+    "draw": 0.2702,
+    "away": 0.3032,
+    "source": "average of bookmakers"
    }
   },
   {
@@ -794,6 +800,12 @@
     "away": 0.2459,
     "xg_home": 1.78,
     "xg_away": 1.15
+   },
+   "market": {
+    "home": 0.3931,
+    "draw": 0.2639,
+    "away": 0.3429,
+    "source": "average of bookmakers"
    }
   },
   {
@@ -811,6 +823,12 @@
     "away": 0.3246,
     "xg_home": 1.44,
     "xg_away": 1.25
+   },
+   "market": {
+    "home": 0.4578,
+    "draw": 0.2723,
+    "away": 0.2699,
+    "source": "average of bookmakers"
    }
   },
   {
@@ -828,6 +846,12 @@
     "away": 0.1571,
     "xg_home": 2.18,
     "xg_away": 0.97
+   },
+   "market": {
+    "home": 0.603,
+    "draw": 0.2134,
+    "away": 0.1836,
+    "source": "average of bookmakers"
    }
   },
   {
@@ -845,6 +869,12 @@
     "away": 0.3253,
     "xg_home": 1.94,
     "xg_away": 1.62
+   },
+   "market": {
+    "home": 0.5367,
+    "draw": 0.2236,
+    "away": 0.2396,
+    "source": "average of bookmakers"
    }
   },
   {
@@ -862,6 +892,12 @@
     "away": 0.4291,
     "xg_home": 1.05,
     "xg_away": 1.34
+   },
+   "market": {
+    "home": 0.3275,
+    "draw": 0.2855,
+    "away": 0.387,
+    "source": "average of bookmakers"
    }
   },
   {
@@ -879,6 +915,12 @@
     "away": 0.1402,
     "xg_home": 2.19,
     "xg_away": 0.86
+   },
+   "market": {
+    "home": 0.5865,
+    "draw": 0.2258,
+    "away": 0.1876,
+    "source": "average of bookmakers"
    }
   },
   {
@@ -896,11 +938,17 @@
     "away": 0.25,
     "xg_home": 1.8,
     "xg_away": 1.17
+   },
+   "market": {
+    "home": 0.4494,
+    "draw": 0.2604,
+    "away": 0.2903,
+    "source": "average of bookmakers"
    }
   },
   {
    "id": 559648,
-   "utc_date": "2026-10-25T19:45:00Z",
+   "utc_date": "2026-10-26T19:30:00Z",
    "matchday": 8,
    "status": "TIMED",
    "home_id": 524,
@@ -913,6 +961,12 @@
     "away": 0.2096,
     "xg_home": 2.07,
     "xg_away": 1.16
+   },
+   "market": {
+    "home": 0.6562,
+    "draw": 0.19,
+    "away": 0.1538,
+    "source": "average of bookmakers"
    }
   },
   {
