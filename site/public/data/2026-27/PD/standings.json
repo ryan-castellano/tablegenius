@@ -70,7 +70,7 @@
   "tied_title_playoff": false,
   "tied_relegation_playoff": false
  },
- "updated_at": "2026-10-24T15:26:36Z",
+ "updated_at": "2026-10-24T18:36:19Z",
  "source": "football-data.org",
  "matchday": {
   "current": 8,
@@ -145,7 +145,7 @@
  },
  "history": {
   "snapshots": 11,
-  "updated_at": "2026-10-24T15:26:36Z"
+  "updated_at": "2026-10-24T18:36:19Z"
  },
  "teams": [
   {
@@ -2211,7 +2211,128 @@
  ],
  "source_check": {
   "available": true,
-  "totals_match": true,
-  "diffs": []
+  "totals_match": false,
+  "diffs": [
+   {
+    "team": "Villarreal CF",
+    "issue": "totals differ",
+    "ours": [
+     9,
+     9,
+     0
+    ],
+    "api": [
+     10,
+     12,
+     1
+    ]
+   },
+   {
+    "team": "RC Celta de Vigo",
+    "issue": "position differs (tiebreak)",
+    "ours": 8,
+    "api": 9
+   },
+   {
+    "team": "RC Deportivo La Coruña",
+    "issue": "position differs (tiebreak)",
+    "ours": 9,
+    "api": 10
+   },
+   {
+    "team": "CA Osasuna",
+    "issue": "position differs (tiebreak)",
+    "ours": 10,
+    "api": 11
+   },
+   {
+    "team": "Real Racing Club de Santander",
+    "issue": "totals differ",
+    "ours": [
+     9,
+     8,
+     -12
+    ],
+    "api": [
+     10,
+     11,
+     -11
+    ]
+   },
+   {
+    "team": "Levante UD",
+    "issue": "position differs (tiebreak)",
+    "ours": 11,
+    "api": 13
+   },
+   {
+    "team": "Elche CF",
+    "issue": "totals differ",
+    "ours": [
+     9,
+     7,
+     -6
+    ],
+    "api": [
+     10,
+     10,
+     -3
+    ]
+   },
+   {
+    "team": "Athletic Club",
+    "issue": "position differs (tiebreak)",
+    "ours": 13,
+    "api": 15
+   },
+   {
+    "team": "Getafe CF",
+    "issue": "position differs (tiebreak)",
+    "ours": 15,
+    "api": 16
+   },
+   {
+    "team": "Rayo Vallecano de Madrid",
+    "issue": "totals differ",
+    "ours": [
+     8,
+     9,
+     -5
+    ],
+    "api": [
+     9,
+     9,
+     -8
+    ]
+   },
+   {
+    "team": "RCD Espanyol de Barcelona",
+    "issue": "totals differ",
+    "ours": [
+     9,
+     8,
+     -1
+    ],
+    "api": [
+     10,
+     8,
+     -2
+    ]
+   },
+   {
+    "team": "Valencia CF",
+    "issue": "totals differ",
+    "ours": [
+     9,
+     6,
+     -9
+    ],
+    "api": [
+     10,
+     6,
+     -10
+    ]
+   }
+  ]
  }
 }

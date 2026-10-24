@@ -72,7 +72,7 @@
   "tied_title_playoff": false,
   "tied_relegation_playoff": false
  },
- "updated_at": "2026-10-24T15:27:01Z",
+ "updated_at": "2026-10-24T18:36:45Z",
  "source": "football-data.org",
  "matchday": {
   "current": 7,
@@ -146,7 +146,7 @@
  },
  "history": {
   "snapshots": 8,
-  "updated_at": "2026-10-24T15:27:01Z"
+  "updated_at": "2026-10-24T18:36:45Z"
  },
  "teams": [
   {
@@ -1988,7 +1988,194 @@
  ],
  "source_check": {
   "available": true,
-  "totals_match": true,
-  "diffs": []
+  "totals_match": false,
+  "diffs": [
+   {
+    "team": "Borussia Dortmund",
+    "issue": "totals differ",
+    "ours": [
+     6,
+     14,
+     7
+    ],
+    "api": [
+     7,
+     17,
+     8
+    ]
+   },
+   {
+    "team": "FC Bayern München",
+    "issue": "position differs (tiebreak)",
+    "ours": 1,
+    "api": 2
+   },
+   {
+    "team": "RB Leipzig",
+    "issue": "totals differ",
+    "ours": [
+     6,
+     9,
+     5
+    ],
+    "api": [
+     7,
+     12,
+     9
+    ]
+   },
+   {
+    "team": "SV Werder Bremen",
+    "issue": "totals differ",
+    "ours": [
+     6,
+     9,
+     0
+    ],
+    "api": [
+     7,
+     12,
+     1
+    ]
+   },
+   {
+    "team": "1. FSV Mainz 05",
+    "issue": "totals differ",
+    "ours": [
+     6,
+     10,
+     4
+    ],
+    "api": [
+     7,
+     10,
+     3
+    ]
+   },
+   {
+    "team": "SV 07 Elversberg",
+    "issue": "totals differ",
+    "ours": [
+     6,
+     10,
+     1
+    ],
+    "api": [
+     7,
+     10,
+     -3
+    ]
+   },
+   {
+    "team": "FC Augsburg",
+    "issue": "totals differ",
+    "ours": [
+     6,
+     8,
+     4
+    ],
+    "api": [
+     7,
+     9,
+     4
+    ]
+   },
+   {
+    "team": "Hamburger SV",
+    "issue": "totals differ",
+    "ours": [
+     6,
+     9,
+     -9
+    ],
+    "api": [
+     7,
+     9,
+     -10
+    ]
+   },
+   {
+    "team": "1. FC Köln",
+    "issue": "totals differ",
+    "ours": [
+     6,
+     7,
+     -3
+    ],
+    "api": [
+     7,
+     8,
+     -3
+    ]
+   },
+   {
+    "team": "SC Paderborn 07",
+    "issue": "totals differ",
+    "ours": [
+     6,
+     5,
+     -4
+    ],
+    "api": [
+     7,
+     8,
+     -3
+    ]
+   },
+   {
+    "team": "Eintracht Frankfurt",
+    "issue": "totals differ",
+    "ours": [
+     6,
+     8,
+     -6
+    ],
+    "api": [
+     7,
+     8,
+     -7
+    ]
+   },
+   {
+    "team": "TSG 1899 Hoffenheim",
+    "issue": "position differs (tiebreak)",
+    "ours": 13,
+    "api": 14
+   },
+   {
+    "team": "VfB Stuttgart",
+    "issue": "position differs (tiebreak)",
+    "ours": 14,
+    "api": 15
+   },
+   {
+    "team": "FC Schalke 04",
+    "issue": "totals differ",
+    "ours": [
+     6,
+     5,
+     -3
+    ],
+    "api": [
+     7,
+     6,
+     -3
+    ]
+   },
+   {
+    "team": "1. FC Union Berlin",
+    "issue": "totals differ",
+    "ours": [
+     6,
+     5,
+     -12
+    ],
+    "api": [
+     7,
+     6,
+     -12
+    ]
+   }
+  ]
  }
 }

@@ -79,7 +79,7 @@
   "tied_title_playoff": false,
   "tied_relegation_playoff": false
  },
- "updated_at": "2026-10-24T15:27:40Z",
+ "updated_at": "2026-10-24T18:37:25Z",
  "source": "football-data.org",
  "matchday": {
   "current": 9,
@@ -152,7 +152,7 @@
  },
  "history": {
   "snapshots": 10,
-  "updated_at": "2026-10-24T15:27:40Z"
+  "updated_at": "2026-10-24T18:37:25Z"
  },
  "teams": [
   {
@@ -1994,7 +1994,42 @@
  ],
  "source_check": {
   "available": true,
-  "totals_match": true,
-  "diffs": []
+  "totals_match": false,
+  "diffs": [
+   {
+    "team": "CF Estrela da Amadora",
+    "issue": "totals differ",
+    "ours": [
+     8,
+     10,
+     -1
+    ],
+    "api": [
+     9,
+     10,
+     -3
+    ]
+   },
+   {
+    "team": "Casa Pia AC",
+    "issue": "totals differ",
+    "ours": [
+     8,
+     4,
+     -14
+    ],
+    "api": [
+     9,
+     7,
+     -12
+    ]
+   },
+   {
+    "team": "CD Nacional",
+    "issue": "position differs (tiebreak)",
+    "ours": 16,
+    "api": 17
+   }
+  ]
  }
 }
