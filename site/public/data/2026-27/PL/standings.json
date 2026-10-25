@@ -72,7 +72,7 @@
   "tied_title_playoff": false,
   "tied_relegation_playoff": false
  },
- "updated_at": "2026-10-24T21:25:04Z",
+ "updated_at": "2026-10-25T00:00:55Z",
  "source": "football-data.org",
  "matchday": {
   "current": 8,
@@ -152,7 +152,7 @@
  },
  "history": {
   "snapshots": 9,
-  "updated_at": "2026-10-24T21:25:04Z"
+  "updated_at": "2026-10-25T00:00:55Z"
  },
  "teams": [
   {
@@ -2218,174 +2218,7 @@
  ],
  "source_check": {
   "available": true,
-  "totals_match": false,
-  "diffs": [
-   {
-    "team": "Manchester City FC",
-    "issue": "totals differ",
-    "ours": [
-     7,
-     21,
-     12
-    ],
-    "api": [
-     8,
-     21,
-     11
-    ]
-   },
-   {
-    "team": "Arsenal FC",
-    "issue": "totals differ",
-    "ours": [
-     7,
-     18,
-     6
-    ],
-    "api": [
-     8,
-     21,
-     8
-    ]
-   },
-   {
-    "team": "Chelsea FC",
-    "issue": "totals differ",
-    "ours": [
-     7,
-     13,
-     4
-    ],
-    "api": [
-     8,
-     13,
-     2
-    ]
-   },
-   {
-    "team": "Aston Villa FC",
-    "issue": "totals differ",
-    "ours": [
-     7,
-     8,
-     -4
-    ],
-    "api": [
-     8,
-     11,
-     -3
-    ]
-   },
-   {
-    "team": "Brentford FC",
-    "issue": "position differs (tiebreak)",
-    "ours": 6,
-    "api": 7
-   },
-   {
-    "team": "Leeds United FC",
-    "issue": "position differs (tiebreak)",
-    "ours": 7,
-    "api": 8
-   },
-   {
-    "team": "Everton FC",
-    "issue": "totals differ",
-    "ours": [
-     7,
-     10,
-     1
-    ],
-    "api": [
-     8,
-     10,
-     -1
-    ]
-   },
-   {
-    "team": "Ipswich Town FC",
-    "issue": "position differs (tiebreak)",
-    "ours": 9,
-    "api": 10
-   },
-   {
-    "team": "Hull City AFC",
-    "issue": "position differs (tiebreak)",
-    "ours": 10,
-    "api": 11
-   },
-   {
-    "team": "Tottenham Hotspur FC",
-    "issue": "totals differ",
-    "ours": [
-     7,
-     6,
-     -4
-    ],
-    "api": [
-     8,
-     9,
-     -2
-    ]
-   },
-   {
-    "team": "Fulham FC",
-    "issue": "totals differ",
-    "ours": [
-     7,
-     5,
-     -3
-    ],
-    "api": [
-     8,
-     8,
-     -2
-    ]
-   },
-   {
-    "team": "Newcastle United FC",
-    "issue": "position differs (tiebreak)",
-    "ours": 11,
-    "api": 14
-   },
-   {
-    "team": "Manchester United FC",
-    "issue": "position differs (tiebreak)",
-    "ours": 13,
-    "api": 15
-   },
-   {
-    "team": "Crystal Palace FC",
-    "issue": "position differs (tiebreak)",
-    "ours": 14,
-    "api": 16
-   },
-   {
-    "team": "AFC Bournemouth",
-    "issue": "position differs (tiebreak)",
-    "ours": 15,
-    "api": 17
-   },
-   {
-    "team": "Nottingham Forest FC",
-    "issue": "position differs (tiebreak)",
-    "ours": 16,
-    "api": 18
-   },
-   {
-    "team": "Coventry City FC",
-    "issue": "totals differ",
-    "ours": [
-     7,
-     6,
-     -8
-    ],
-    "api": [
-     8,
-     6,
-     -9
-    ]
-   }
-  ]
+  "totals_match": true,
+  "diffs": []
  }
 }
