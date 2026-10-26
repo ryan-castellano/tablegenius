@@ -1,7 +1,7 @@
 {
  "league": "PD",
  "season": "2026-27",
- "updated_at": "2026-10-26T16:02:40Z",
+ "updated_at": "2026-10-26T21:19:04Z",
  "results_hash": "88f3359daabb61f75be071821df952ee1b1c5ba0",
  "teams": [
   {
@@ -1140,11 +1140,11 @@
    "id": 564721,
    "utc_date": "2026-10-26T20:00:00Z",
    "matchday": 10,
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "home_id": 559,
    "away_id": 79,
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 0,
    "forecast": {
     "home": 0.4621,
     "draw": 0.2571,
