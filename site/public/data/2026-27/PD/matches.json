@@ -1,7 +1,7 @@
 {
  "league": "PD",
  "season": "2026-27",
- "updated_at": "2026-10-30T09:50:37Z",
+ "updated_at": "2026-10-30T21:22:47Z",
  "results_hash": "184afdacfdecfefe0fc7723b6346689b3f30031e",
  "teams": [
   {
@@ -847,16 +847,6 @@
    "away_goals": 1
   },
   {
-   "id": 564698,
-   "utc_date": "2026-10-10T12:00:00Z",
-   "matchday": 8,
-   "status": "CANCELLED",
-   "home_id": 87,
-   "away_id": 77,
-   "home_goals": 0,
-   "away_goals": 0
-  },
-  {
    "id": 564699,
    "utc_date": "2026-10-10T14:15:00Z",
    "matchday": 8,
@@ -1150,11 +1140,11 @@
    "id": 564737,
    "utc_date": "2026-10-30T20:00:00Z",
    "matchday": 11,
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "home_id": 94,
    "away_id": 80,
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 1,
    "forecast": {
     "home": 0.617,
     "draw": 0.214,
@@ -2055,6 +2045,16 @@
     "xg_home": 1.57,
     "xg_away": 1.14
    }
+  },
+  {
+   "id": 564698,
+   "utc_date": "2026-12-09T19:00:00Z",
+   "matchday": 8,
+   "status": "CANCELLED",
+   "home_id": 87,
+   "away_id": 77,
+   "home_goals": 0,
+   "away_goals": 0
   },
   {
    "id": 564778,
