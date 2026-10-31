@@ -1,7 +1,7 @@
 {
  "league": "FL1",
  "season": "2026-27",
- "updated_at": "2026-10-31T16:53:04Z",
+ "updated_at": "2026-10-31T20:24:59Z",
  "results_hash": "579b984598b71d22ce9ba3379e166bb0081e6856",
  "teams": [
   {
@@ -886,11 +886,11 @@
    "id": 559643,
    "utc_date": "2026-10-31T19:45:00Z",
    "matchday": 9,
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "home_id": 531,
    "away_id": 535,
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 0,
    "forecast": {
     "home": 0.3412,
     "draw": 0.2532,
