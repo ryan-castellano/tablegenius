@@ -1,7 +1,7 @@
 {
  "league": "PL",
  "season": "2026-27",
- "updated_at": "2026-11-01T10:18:21Z",
+ "updated_at": "2026-11-01T17:40:40Z",
  "results_hash": "b690835d47f80d8335f4356ebda3933eaca2dfa0",
  "teams": [
   {
@@ -1030,11 +1030,11 @@
    "id": 560631,
    "utc_date": "2026-11-01T16:30:00Z",
    "matchday": 9,
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "home_id": 64,
    "away_id": 57,
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 1,
    "forecast": {
     "home": 0.3016,
     "draw": 0.2789,
