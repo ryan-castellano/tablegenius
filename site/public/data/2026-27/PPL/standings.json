@@ -79,7 +79,7 @@
   "tied_title_playoff": false,
   "tied_relegation_playoff": false
  },
- "updated_at": "2026-11-02T10:52:22Z",
+ "updated_at": "2026-11-02T23:48:17Z",
  "source": "football-data.org",
  "matchday": {
   "current": 10,
@@ -146,7 +146,7 @@
  },
  "history": {
   "snapshots": 11,
-  "updated_at": "2026-11-02T10:52:22Z"
+  "updated_at": "2026-11-02T23:48:17Z"
  },
  "teams": [
   {
@@ -1988,7 +1988,70 @@
  ],
  "source_check": {
   "available": true,
-  "totals_match": true,
-  "diffs": []
+  "totals_match": false,
+  "diffs": [
+   {
+    "team": "Sport Lisboa e Benfica",
+    "issue": "totals differ",
+    "ours": [
+     9,
+     22,
+     18
+    ],
+    "api": [
+     10,
+     25,
+     19
+    ]
+   },
+   {
+    "team": "Gil Vicente FC",
+    "issue": "totals differ",
+    "ours": [
+     9,
+     14,
+     1
+    ],
+    "api": [
+     10,
+     15,
+     1
+    ]
+   },
+   {
+    "team": "Sporting Clube de Braga",
+    "issue": "position differs (tiebreak)",
+    "ours": 7,
+    "api": 8
+   },
+   {
+    "team": "FC Alverca",
+    "issue": "totals differ",
+    "ours": [
+     9,
+     11,
+     0
+    ],
+    "api": [
+     10,
+     11,
+     -1
+    ]
+   },
+   {
+    "team": "Vitória SC",
+    "issue": "totals differ",
+    "ours": [
+     9,
+     8,
+     0
+    ],
+    "api": [
+     10,
+     9,
+     0
+    ]
+   }
+  ]
  }
 }
