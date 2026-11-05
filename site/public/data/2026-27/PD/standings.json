@@ -70,7 +70,7 @@
   "tied_title_playoff": false,
   "tied_relegation_playoff": false
  },
- "updated_at": "2026-11-05T10:40:19Z",
+ "updated_at": "2026-11-05T22:30:28Z",
  "source": "football-data.org",
  "matchday": {
   "current": 8,
@@ -146,7 +146,7 @@
  },
  "history": {
   "snapshots": 12,
-  "updated_at": "2026-11-05T10:40:19Z"
+  "updated_at": "2026-11-05T22:30:28Z"
  },
  "teams": [
   {
@@ -246,7 +246,7 @@
    "magic": {
     "title": 80,
     "ucl": 71,
-    "europe": 66,
+    "europe": 67,
     "safety": 62
    },
    "remaining": 27,
@@ -349,7 +349,7 @@
    "magic": {
     "title": null,
     "ucl": 73,
-    "europe": 68,
+    "europe": 69,
     "safety": 64
    },
    "remaining": 27,
@@ -452,7 +452,7 @@
    "magic": {
     "title": null,
     "ucl": 74,
-    "europe": 69,
+    "europe": 70,
     "safety": 65
    },
    "remaining": 27,
@@ -555,7 +555,7 @@
    "magic": {
     "title": null,
     "ucl": 78,
-    "europe": 73,
+    "europe": 74,
     "safety": 69
    },
    "remaining": 27,
@@ -658,7 +658,7 @@
    "magic": {
     "title": null,
     "ucl": null,
-    "europe": 77,
+    "europe": 78,
     "safety": 73
    },
    "remaining": 27,
@@ -761,7 +761,7 @@
    "magic": {
     "title": null,
     "ucl": null,
-    "europe": 79,
+    "europe": 80,
     "safety": 75
    },
    "remaining": 27,
@@ -864,10 +864,10 @@
    "magic": {
     "title": null,
     "ucl": null,
-    "europe": 81,
+    "europe": 82,
     "safety": 77
    },
-   "remaining": 27,
+   "remaining": 28,
    "scenarios": []
   },
   {
@@ -1382,7 +1382,7 @@
     "europe": null,
     "safety": 80
    },
-   "remaining": 27,
+   "remaining": 28,
    "scenarios": []
   },
   {
