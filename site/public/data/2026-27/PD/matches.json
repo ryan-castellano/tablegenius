@@ -1,7 +1,7 @@
 {
  "league": "PD",
  "season": "2026-27",
- "updated_at": "2026-11-05T22:30:28Z",
+ "updated_at": "2026-11-06T03:06:26Z",
  "results_hash": "90d27f4d0c8bf823c0bea2a4fb2c6bcc1583ba19",
  "teams": [
   {
@@ -1920,7 +1920,7 @@
    "id": 564698,
    "utc_date": "2026-12-09T19:00:00Z",
    "matchday": 8,
-   "status": "2026-12-09 19:00:00Z",
+   "status": "CANCELLED",
    "home_id": 87,
    "away_id": 77,
    "home_goals": 0,
