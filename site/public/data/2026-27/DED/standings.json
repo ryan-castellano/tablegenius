@@ -81,7 +81,7 @@
   "tied_title_playoff": true,
   "tied_relegation_playoff": true
  },
- "updated_at": "2026-11-07T09:52:35Z",
+ "updated_at": "2026-11-07T17:29:01Z",
  "source": "football-data.org",
  "matchday": {
   "current": 12,
@@ -155,7 +155,7 @@
  },
  "history": {
   "snapshots": 13,
-  "updated_at": "2026-11-07T09:52:35Z"
+  "updated_at": "2026-11-07T17:29:01Z"
  },
  "teams": [
   {
@@ -1997,7 +1997,36 @@
  ],
  "source_check": {
   "available": true,
-  "totals_match": true,
-  "diffs": []
+  "totals_match": false,
+  "diffs": [
+   {
+    "team": "Fortuna Sittard",
+    "issue": "totals differ",
+    "ours": [
+     11,
+     19,
+     0
+    ],
+    "api": [
+     12,
+     20,
+     0
+    ]
+   },
+   {
+    "team": "Telstar 1963",
+    "issue": "totals differ",
+    "ours": [
+     11,
+     9,
+     -7
+    ],
+    "api": [
+     12,
+     10,
+     -7
+    ]
+   }
+  ]
  }
 }

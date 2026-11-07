@@ -70,7 +70,7 @@
   "tied_title_playoff": false,
   "tied_relegation_playoff": false
  },
- "updated_at": "2026-11-07T09:51:43Z",
+ "updated_at": "2026-11-07T17:28:09Z",
  "source": "football-data.org",
  "matchday": {
   "current": 8,
@@ -145,7 +145,7 @@
  },
  "history": {
   "snapshots": 13,
-  "updated_at": "2026-11-07T09:51:43Z"
+  "updated_at": "2026-11-07T17:28:09Z"
  },
  "teams": [
   {
@@ -2211,7 +2211,100 @@
  ],
  "source_check": {
   "available": true,
-  "totals_match": true,
-  "diffs": []
+  "totals_match": false,
+  "diffs": [
+   {
+    "team": "RC Deportivo La Coruña",
+    "issue": "totals differ",
+    "ours": [
+     11,
+     14,
+     1
+    ],
+    "api": [
+     12,
+     15,
+     1
+    ]
+   },
+   {
+    "team": "Real Racing Club de Santander",
+    "issue": "totals differ",
+    "ours": [
+     11,
+     11,
+     -14
+    ],
+    "api": [
+     12,
+     14,
+     -13
+    ]
+   },
+   {
+    "team": "Deportivo Alavés",
+    "issue": "position differs (tiebreak)",
+    "ours": 9,
+    "api": 10
+   },
+   {
+    "team": "Villarreal CF",
+    "issue": "position differs (tiebreak)",
+    "ours": 10,
+    "api": 11
+   },
+   {
+    "team": "RC Celta de Vigo",
+    "issue": "position differs (tiebreak)",
+    "ours": 11,
+    "api": 12
+   },
+   {
+    "team": "RCD Espanyol de Barcelona",
+    "issue": "totals differ",
+    "ours": [
+     11,
+     11,
+     -1
+    ],
+    "api": [
+     12,
+     12,
+     -1
+    ]
+   },
+   {
+    "team": "Rayo Vallecano de Madrid",
+    "issue": "position differs (tiebreak)",
+    "ours": 12,
+    "api": 14
+   },
+   {
+    "team": "Getafe CF",
+    "issue": "position differs (tiebreak)",
+    "ours": 13,
+    "api": 15
+   },
+   {
+    "team": "CA Osasuna",
+    "issue": "position differs (tiebreak)",
+    "ours": 15,
+    "api": 16
+   },
+   {
+    "team": "Málaga CF",
+    "issue": "totals differ",
+    "ours": [
+     11,
+     5,
+     -13
+    ],
+    "api": [
+     12,
+     5,
+     -14
+    ]
+   }
+  ]
  }
 }
