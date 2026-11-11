@@ -1,7 +1,7 @@
 {
  "league": "PPL",
  "season": "2026-27",
- "updated_at": "2026-11-11T10:39:17Z",
+ "updated_at": "2026-11-11T23:18:00Z",
  "results_hash": "945626660550d42882facfdbb6182b762b73a473",
  "teams": [
   {
@@ -1063,29 +1063,6 @@
    "away_goals": 0
   },
   {
-   "id": 567348,
-   "utc_date": "2026-11-08T00:00:00Z",
-   "matchday": 11,
-   "status": "POSTPONED",
-   "home_id": 582,
-   "away_id": 5575,
-   "home_goals": null,
-   "away_goals": null,
-   "forecast": {
-    "home": 0.5874,
-    "draw": 0.1926,
-    "away": 0.22,
-    "xg_home": 2.1,
-    "xg_away": 1.17
-   },
-   "market": {
-    "home": 0.4534,
-    "draw": 0.2705,
-    "away": 0.2761,
-    "source": "average of bookmakers"
-   }
-  },
-  {
    "id": 567351,
    "utc_date": "2026-11-08T15:30:00Z",
    "matchday": 11,
@@ -1898,6 +1875,29 @@
     "away": 0.3468,
     "xg_home": 1.5,
     "xg_away": 1.32
+   }
+  },
+  {
+   "id": 567348,
+   "utc_date": "2027-01-04T20:15:00Z",
+   "matchday": 11,
+   "status": "TIMED",
+   "home_id": 582,
+   "away_id": 5575,
+   "home_goals": null,
+   "away_goals": null,
+   "forecast": {
+    "home": 0.5874,
+    "draw": 0.1926,
+    "away": 0.22,
+    "xg_home": 2.1,
+    "xg_away": 1.17
+   },
+   "market": {
+    "home": 0.4534,
+    "draw": 0.2705,
+    "away": 0.2761,
+    "source": "average of bookmakers"
    }
   },
   {

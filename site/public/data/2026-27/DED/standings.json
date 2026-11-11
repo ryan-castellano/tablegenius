@@ -81,7 +81,7 @@
   "tied_title_playoff": true,
   "tied_relegation_playoff": true
  },
- "updated_at": "2026-11-11T10:39:04Z",
+ "updated_at": "2026-11-11T23:17:47Z",
  "source": "football-data.org",
  "matchday": {
   "current": 13,
@@ -156,7 +156,7 @@
  },
  "history": {
   "snapshots": 13,
-  "updated_at": "2026-11-11T10:39:04Z"
+  "updated_at": "2026-11-11T23:17:47Z"
  },
  "teams": [
   {
