@@ -1,7 +1,7 @@
 {
  "league": "PPL",
  "season": "2026-27",
- "updated_at": "2026-11-13T10:48:21Z",
+ "updated_at": "2026-11-13T22:23:18Z",
  "results_hash": "945626660550d42882facfdbb6182b762b73a473",
  "teams": [
   {
@@ -1892,12 +1892,6 @@
     "away": 0.22,
     "xg_home": 2.1,
     "xg_away": 1.17
-   },
-   "market": {
-    "home": 0.4534,
-    "draw": 0.2705,
-    "away": 0.2761,
-    "source": "average of bookmakers"
    }
   },
   {
