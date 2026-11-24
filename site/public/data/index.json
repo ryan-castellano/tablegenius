@@ -1,61 +1,61 @@
 {
  "season": "2026-27",
- "updated_at": "2026-11-23T12:08:41Z",
+ "updated_at": "2026-11-24T03:10:13Z",
  "has_backtest": true,
  "leagues": [
   {
    "code": "PL",
    "name": "Premier League",
    "country": "England",
-   "updated_at": "2026-11-23T12:07:24Z",
+   "updated_at": "2026-11-24T03:08:57Z",
    "matchday": {
-    "current": 11,
+    "current": 12,
     "total": 38,
-    "matches_played": 109,
+    "matches_played": 110,
     "matches_total": 380
    },
    "source": "football-data.org",
    "has_probabilities": true,
-   "model_as_of": "2026-11-22T19:05:07Z",
+   "model_as_of": "2026-11-24T03:08:55Z",
    "has_history": true
   },
   {
    "code": "PD",
    "name": "LaLiga",
    "country": "Spain",
-   "updated_at": "2026-11-23T12:07:36Z",
+   "updated_at": "2026-11-24T03:09:10Z",
    "matchday": {
     "current": 8,
     "total": 38,
-    "matches_played": 128,
+    "matches_played": 129,
     "matches_total": 380
    },
    "source": "football-data.org",
    "has_probabilities": true,
-   "model_as_of": "2026-11-23T00:36:20Z",
+   "model_as_of": "2026-11-24T03:09:08Z",
    "has_history": true
   },
   {
    "code": "SA",
    "name": "Serie A",
    "country": "Italy",
-   "updated_at": "2026-11-23T12:07:49Z",
+   "updated_at": "2026-11-24T03:09:23Z",
    "matchday": {
-    "current": 12,
+    "current": 13,
     "total": 38,
-    "matches_played": 119,
+    "matches_played": 120,
     "matches_total": 380
    },
    "source": "football-data.org",
    "has_probabilities": true,
-   "model_as_of": "2026-11-23T00:36:33Z",
+   "model_as_of": "2026-11-24T03:09:21Z",
    "has_history": true
   },
   {
    "code": "BL1",
    "name": "Bundesliga",
    "country": "Germany",
-   "updated_at": "2026-11-23T12:08:02Z",
+   "updated_at": "2026-11-24T03:09:34Z",
    "matchday": {
     "current": 11,
     "total": 34,
@@ -71,7 +71,7 @@
    "code": "FL1",
    "name": "Ligue 1",
    "country": "France",
-   "updated_at": "2026-11-23T12:08:16Z",
+   "updated_at": "2026-11-24T03:09:47Z",
    "matchday": {
     "current": 12,
     "total": 34,
@@ -87,7 +87,7 @@
    "code": "DED",
    "name": "Eredivisie",
    "country": "Netherlands",
-   "updated_at": "2026-11-23T12:08:28Z",
+   "updated_at": "2026-11-24T03:10:00Z",
    "matchday": {
     "current": 14,
     "total": 34,
@@ -103,7 +103,7 @@
    "code": "PPL",
    "name": "Primeira Liga",
    "country": "Portugal",
-   "updated_at": "2026-11-23T12:08:41Z",
+   "updated_at": "2026-11-24T03:10:13Z",
    "matchday": {
     "current": 11,
     "total": 34,
