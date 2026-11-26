@@ -70,7 +70,7 @@
   "tied_title_playoff": false,
   "tied_relegation_playoff": false
  },
- "updated_at": "2026-11-25T12:29:40Z",
+ "updated_at": "2026-11-26T00:49:40Z",
  "source": "football-data.org",
  "matchday": {
   "current": 8,
@@ -129,24 +129,15 @@
   "relegation_playoff_survival": null
  },
  "next_round": {
-  "matchday": 14,
-  "label": "this weekend",
+  "matchday": 8,
+  "label": "in midweek",
   "fixtures": [
-   564765,
-   564760,
-   564767,
-   564759,
-   564762,
-   564761,
-   564766,
-   564758,
-   564764,
-   564763
+   564698
   ]
  },
  "history": {
   "snapshots": 14,
-  "updated_at": "2026-11-25T12:29:40Z"
+  "updated_at": "2026-11-26T00:49:40Z"
  },
  "teams": [
   {
@@ -246,7 +237,7 @@
    "magic": {
     "title": 73,
     "ucl": 62,
-    "europe": 56,
+    "europe": 57,
     "safety": 52
    },
    "remaining": 25,
@@ -349,7 +340,7 @@
    "magic": {
     "title": null,
     "ucl": 65,
-    "europe": 59,
+    "europe": 60,
     "safety": 55
    },
    "remaining": 25,
@@ -452,7 +443,7 @@
    "magic": {
     "title": null,
     "ucl": 67,
-    "europe": 61,
+    "europe": 62,
     "safety": 57
    },
    "remaining": 25,
@@ -555,7 +546,7 @@
    "magic": {
     "title": null,
     "ucl": 71,
-    "europe": 65,
+    "europe": 66,
     "safety": 61
    },
    "remaining": 25,
@@ -658,7 +649,7 @@
    "magic": {
     "title": null,
     "ucl": null,
-    "europe": 70,
+    "europe": 71,
     "safety": 66
    },
    "remaining": 25,
@@ -761,7 +752,7 @@
    "magic": {
     "title": null,
     "ucl": null,
-    "europe": 73,
+    "europe": 74,
     "safety": 69
    },
    "remaining": 25,
@@ -864,7 +855,7 @@
    "magic": {
     "title": null,
     "ucl": null,
-    "europe": 75,
+    "europe": null,
     "safety": 71
    },
    "remaining": 25,
@@ -967,10 +958,10 @@
    "magic": {
     "title": null,
     "ucl": null,
-    "europe": null,
+    "europe": 77,
     "safety": 72
    },
-   "remaining": 25,
+   "remaining": 26,
    "scenarios": []
   },
   {
@@ -1792,9 +1783,9 @@
     "title": null,
     "ucl": null,
     "europe": null,
-    "safety": null
+    "safety": 76
    },
-   "remaining": 25,
+   "remaining": 26,
    "scenarios": []
   },
   {
