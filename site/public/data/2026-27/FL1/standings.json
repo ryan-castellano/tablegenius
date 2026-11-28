@@ -78,7 +78,7 @@
   "tied_title_playoff": false,
   "tied_relegation_playoff": false
  },
- "updated_at": "2026-11-27T11:58:38Z",
+ "updated_at": "2026-11-28T00:21:37Z",
  "source": "football-data.org",
  "matchday": {
   "current": 12,
@@ -152,7 +152,7 @@
  },
  "history": {
   "snapshots": 12,
-  "updated_at": "2026-11-27T11:58:38Z"
+  "updated_at": "2026-11-28T00:21:37Z"
  },
  "teams": [
   {
@@ -1994,7 +1994,54 @@
  ],
  "source_check": {
   "available": true,
-  "totals_match": true,
-  "diffs": []
+  "totals_match": false,
+  "diffs": [
+   {
+    "team": "Paris FC",
+    "issue": "totals differ",
+    "ours": [
+     11,
+     23,
+     11
+    ],
+    "api": [
+     12,
+     23,
+     10
+    ]
+   },
+   {
+    "team": "Stade Brestois 29",
+    "issue": "totals differ",
+    "ours": [
+     11,
+     18,
+     7
+    ],
+    "api": [
+     12,
+     21,
+     8
+    ]
+   },
+   {
+    "team": "Lille OSC",
+    "issue": "position differs (tiebreak)",
+    "ours": 3,
+    "api": 4
+   },
+   {
+    "team": "Olympique Lyonnais",
+    "issue": "position differs (tiebreak)",
+    "ours": 4,
+    "api": 5
+   },
+   {
+    "team": "Olympique de Marseille",
+    "issue": "position differs (tiebreak)",
+    "ours": 5,
+    "api": 6
+   }
+  ]
  }
 }
